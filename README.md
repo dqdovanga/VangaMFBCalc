@@ -1,2 +1,0 @@
-# VangaMFBCalc
-for MFB
